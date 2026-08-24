@@ -1,0 +1,123 @@
+FOOD UPDATE FORM (version 1.2)                             12 January 1996
+
+1.  Country                              Nederland
+2.  Code (for new food IARC complets)    0000
+    (    )
+3.  Food name, 50 caracters max. (   )
+    - own language (   )                 Stokbrood wit met kruidenboter kant-en-klaar
+    - English(   )                       Baguette white with herbal butter (commercial)
+4.  Group/subgroup (   )                 06 03 01
+5.  Shadow (   )
+    - Synonym, 50 caracters max.         .
+      (    )
+    - Other group (   )                  .. .. ..
+6.  Brandname (if not yet listed)  (    )                               
+    - 1. Brandname                       .
+    - 2. Brandname                       .
+7.  Facet (   )                          .. .. .. .. .. .. .. .. .. .. .. .. 
+8.  Quantification (   )
+    - photos (   )                       ..,..
+    - HHM (   )                          .
+    - STDU and comment (   )             U.1 C 1 0175 per stuk AH
+    - STDU and comment (   )             U.2 C 1 .... ....................
+    - STDU and comment (   )             U.3 C 1 .... ....................
+    - STDP and comment (   )             P.1 C 1 .... ....................
+    - STDP and comment (   )             P.2 C 1 .... ....................
+9.  Maxima (   )                         297
+10. Probings (   )                       08,13
+11. Nutrient values (   )
+    - Energy (   )                         305           .           .
+    - Protein (   )                          6           .           .
+    - Fat (   )                             13           .           .
+    - Carbohydrate (   )                    41           .           .
+    - Alcohol (   )                          0           .           .
+    - Priority number                        1           2           3
+    - Facet-string (   )                 .... ....   .... ....   
+12. Density/facet-string (if HHM used) (   )
+    - Raw                                R:0.__ ....           R:0.__ ....
+    - Cooked                             C:0.__ ....           C:0.__ ....
+    - Default density                      0.__ ....             0.__ ....
+13. Edible Part (   )
+    - Default edib (   )                 0.__
+    - for fish: whole (   )              0.__
+    - for fish: fillet (   )             0.__
+    - for fish: steak/slice (   )        0.__
+    - for fish: canned (   )             0.__
+14. Rawcook coef. (if facet 03)  (   ) 
+    - Default R/C (   )                  0.__
+    - Boiled (   )                       0.__
+    - Baked (   )                        0.__
+    - Roasted (   )                      0.__
+    - Fried (   )                        0.__
+    - from dried (if facet 0403)         0.__
+         (   )
+15. PCTFAT (if facet 03)  (    )
+    - Group1 very fatty (   )            0.__
+    - Group2 fatty (   )                 0.__
+    - Group3 less fatty (   )            0.__
+16. PCTFSS (   )
+    - %Fat (   )                         0.00
+    - %Sauce (   )                       0.00
+    - %Sweetener (   )                   0.00
+
+FOOD UPDATE FORM (version 1.2)                             12 January 1996
+
+1.  Country                              Nederland
+2.  Code (for new food IARC complets)    0000
+    (    )
+3.  Food name, 50 caracters max. (   )
+    - own language (   )                 Brood koolhydraatarm
+    - English(   )                       Bread low in carbohydrates
+4.  Group/subgroup (   )                 06 03 01
+5.  Shadow (   )
+    - Synonym, 50 caracters max.         .
+      (    )
+    - Other group (   )                  .. .. ..
+6.  Brandname (if not yet listed)  (    )                               
+    - 1. Brandname                       .
+    - 2. Brandname                       .
+7.  Facet (   )                          03 12 .. .. .. .. .. .. .. .. .. ..
+8.  Quantification (   )
+    - photos (   )                       ..,..
+    - HHM (   )                          .
+    - STDU and comment (   )             U.1 R 1 0400 brood Jumbo Bakvers
+    - STDU and comment (   )             U.2 R 1 0035 gesneden, 1 cm                    
+    - STDU and comment (   )             U.3 R 1 0040 zelf gesneden, 1.5 cm
+    - STDP and comment (   )             P.1 C 1 .... ....................
+    - STDP and comment (   )             P.2 C 1 .... ....................
+9.  Maxima (   )                         297
+10. Probings (   )                       15,08,13,16
+11. Nutrient values (   )
+    - Energy (   )                         208           .           .
+    - Protein (   )                         19           .           .
+    - Fat (   )                              8           .           .
+    - Carbohydrate (   )                    16           .           .
+    - Alcohol (   )                          0           .           .
+    - Priority number                        1           2           3
+    - Facet-string (   )                 .... ....   .... ....   
+12. Density/facet-string (if HHM used) (   )
+    - Raw                                R:0.__ ....           R:0.__ ....
+    - Cooked                             C:0.__ ....           C:0.__ ....
+    - Default density                      0.__ ....             0.__ ....
+13. Edible Part (   )
+    - Default edib (   )                 0.__
+    - for fish: whole (   )              0.__
+    - for fish: fillet (   )             0.__
+    - for fish: steak/slice (   )        0.__
+    - for fish: canned (   )             0.__
+14. Rawcook coef. (if facet 03)  (   )
+    - Default R/C (   )                  0.90
+    - Boiled (   )                       0.__
+    - Baked (   )                        1.00
+    - Roasted (   )                      0.__
+    - Fried (   )                        0.75
+    - from dried (if facet 0403)         0.__
+         (   )
+15. PCTFAT (if facet 03)  (    )
+    - Group1 very fatty (   )            0.30
+    - Group2 fatty (   )                 0.30
+    - Group3 less fatty (   )            0.__
+16. PCTFSS (   )
+    - %Fat (   )                         0.20
+    - %Sauce (   )                       0.20
+    - %Sweetener (   )                   0.50
