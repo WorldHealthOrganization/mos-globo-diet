@@ -1,0 +1,584 @@
+RM_ADDDATE         Add date to the files name (yyyymmddHHMM)                                                           
+RM_ADDGROUP        Add a Group / Subgroup                                                                              
+RM_ADDSHADOWNAME   Add Shadow Name                                                                                     
+RM_ALREADYEX       already exists                                                                                      
+RM_CHKRCP          Checking recipe status...                                                                           
+RM_CREATERCP        Create a recipe                                                                                    
+RM_CSVPATH         Select a folder to store the csv file                                                               
+RM_DATABASES       Databases                                                                                           
+RM_DELGROUP        Delete Selected Groups/Subgroups                                                                    
+RM_DELRCP          Delete Recipe                                                                                       
+RM_DELSELSHADOWS   Delete selected Shadows                                                                             
+RM_DELSHADOW       Delete Shadow                                                                                       
+RM_DELSHADOWCLASS  Delete Shadow Classification                                                                        
+RM_DELSHADOWSQUEST Do you want to delete all the shadows attached to this recipe?                                      
+RM_EDITSELSHADOW   Edit selected Shadow Name                                                                           
+RM_EXPORTFAIL      Export failed                                                                                       
+RM_FILE            File                                                                                                
+RM_FILENAME        Enter file name                                                                                     
+RM_FIMPORT         Select a file to import                                                                             
+RM_IMPCONFIRM      The import will overwrite the current recipes. Are you sure to proceed?                             
+RM_IMPORTFILE      Import file                                                                                         
+RM_INVFILENAME     Invalid file name                                                                                   
+RM_INVPATH         Invalid path                                                                                        
+RM_NBING           Number of ingredients                                                                               
+RM_NBRECIPE        Number of recipes                                                                                   
+RM_NBSERVICES      Number of ingredients quantified by photo/shape                                                     
+RM_NOFILESEL       No file selected                                                                                    
+RM_NORCPTYPE       A type must be selected                                                                             
+RM_NOSAMERCP       You cannot use the same recipe as sub recipe                                                        
+RM_NOSHCREATE      No shadow (same name & classification as main recipe)                                               
+RM_RALPHA          Alphabetical order by default                                                                       
+RM_RCP1_2          Open (1.2)                                                                                          
+RM_RCP1_3          Open with brand (1.3)                                                                               
+RM_RCP2_1          Closed (2.1)                                                                                        
+RM_RCP2_2          Closed with brand (2.2)                                                                             
+RM_RCP3_0          Strictly commercial (3.0)                                                                           
+RM_RCPCHECK        Recipe check                                                                                        
+RM_RCPEXIST        Recipe already exists                                                                               
+RM_RCPMNG          Recipe Management                                                                                   
+RM_RECIPE          Recipe                                                                                              
+RM_RECOMPUTE       recompute all recipes                                                                               
+RM_RESULTS         Results                                                                                             
+RM_SELECTGROUP     Selected Group/Subgroup                                                                             
+RM_SELECTSHADOW    Selected Shadow                                                                                     
+RM_SHADOWMANAGE    Shadow recipe management                                                                            
+RM_SHRECIPE        Shadow recipe                                                                                       
+RM_VEDITRCP        View/Edit Recipe                                                                                    
+RM_VIEWING         &View Ingr                                                                                          
+RM_XLSEXPORT       Export Recipe database (XLS)                                                                        
+RM_XMLEXPORT       Export Recipe database (XML)                                                                        
+RM_XMLIMPORT       Import Recipe database (XML)                                                                        
+RM_XMLPATH         Select a folder to store the xml file                                                               
+TXT__EXITQL         &Exit Quick List                                                                                   
+TXT__FEMALE         &Female                                                                                            
+TXT__HOURS          &Hours                                                                                             
+TXT__MALE           &Male                                                                                              
+TXT__NEXT             &Next                                                                                            
+TXT__PREV           &Previous                                                                                          
+TXT__SELECT          &Select                                                                                           
+TXT_24HOURS         24 H. &Recall                                                                                      Data &Entry
+TXT_ABORTSUPP      &Return in description / quantification                                                             
+TXT_ABOUT          &About...                                                                                           
+TXT_ADDFCOSUPP     &Add Occasion         (F5)                                                                          
+TXT_ADDINGRED      &Add Ingredient      (F4)                                                                           
+TXT_ADDINGREDIENT  Added ingredient                                                                                    
+TXT_ADDQLITEM       &Add Item                   (F4)                                                                   Add Quick List Item
+TXT_ADDQLITEM_SUP  Add dietary supplement                                                                              
+TXT_ADDQQITEM       &Add item                   (F4)                                                                   
+TXT_ADDSUPP         &Add Supplement (F4)                                                                               
+TXT_AFACSEL        [Select]                                                                                            
+TXT_AGE            Age :                                                                                               
+TXT_ALLOCC           &All Occasions                                                                                    
+TXT_ALREADYASSIGNEDThis code has already been assigned                                                                 
+TXT_ALREXISTS      This code and date have already been assigned to another interview.                                 This code and date have already been assigned to another record.
+TXT_ALTF1NOTES     ALT+F1 : Show All Notes                                                                             
+TXT_ANOTHERING     Another item to be added to the quick list item ?                                                   Any other item to be added to the FCO?
+TXT_ANYLEFT        Was there any fat/sauce left-over in the dish?                                                      
+TXT_ASCONSUMED     As consumed                                                                                         
+TXT_ASESTIMATED    As estimated                                                                                        
+TXT_ASK_SPDAY      Did you have a special day?                                                                         
+TXT_ASK_SPDIET     Did you have a special diet?                                                                        
+TXT_ASKFOR_SUPP    Did you take any dietary supplement ?                                                               
+TXT_BDATE          Birth Date                                                                                          
+TXT_BRANDLIST       &Brand Names    (F11)                                                                              
+TXT_BRITISHU       British units                                                                                       
+TXT_CALCULATED     CALCULATED ->                                                                                       
+TXT_CANCEL          &Cancel                                                                                            
+TXT_CANNOTNUL      This value cannot be null or negative.                                                              
+TXT_CCNOTFOUND     Country/Center not found.                                                                           
+TXT_CENTER         Center :                                                                                            
+TXT_CHGBRAND1      If you want to change the brand name, please delete the                                             
+TXT_CHGBRAND2      current recipe and then create another one.                                                         
+TXT_CHKBDATE       Ask date at beginning                                                                               
+TXT_CLOSE_R        Closed                                                                                              
+TXT_CLOSEDBRAND_R  Closed with brand                                                                                   
+TXT_CNTR           Center ( Country ) List                                                                             
+TXT_COMERNS        -Commercial n.s.-                                                                                   
+TXT_COMM_R         Strictly commercial                                                                                 
+TXT_COMMNOCH1      Descriptor cannot be changed.                                                                       
+TXT_COMMNOCH2      To modify it, delete the recipe and create another one.                                             
+TXT_COMPLIST       Compressed list                                                                                     
+TXT_COMPRESSED       &Compress  (ALT-F7)                                                                               
+TXT_CONFDATE       Confirm current date                                                                                
+TXT_CONFIRMPLS     Please confirm                                                                                      
+TXT_CONTINTERV     Next interview step                                                                                 Next record step
+TXT_CONTINUE         C&ontinue                                                                                         
+TXT_COPY           C&opy                                                                                               
+TXT_COPYITEM         &Copy Item To...     (F5)                                                                         
+TXT_COPYTHISITEM   &Copy this item...                                                                                  
+TXT_COUNTRY        Country                                                                                             
+TXT_COUNTRYCENTER  Location                                                                                            
+TXT_CTRLQLEGEND    ** = Empty selected FCO to be corrected                                                             
+TXT_CUT            &Cut                                                                                                
+TXT_DATE           Date :                                                                                              
+TXT_DATEINT        Date of Recall :                                                                                    Date of record :  
+TXT_DDMMYY         (dd/mm/yyyy)                                                                                        
+TXT_DELALLRINGS    Delete all recipe ingredients and attached notes ?                                                  
+TXT_DELCURIT       Delete current item ?                                                                               
+TXT_DELCURRFI      Delete current food item and attached notes ?                                                       
+TXT_DELCURSUP      Delete current supplement item and attached notes ?                                                 
+TXT_DELFCOSUPP      &Delete Occasion      (F6)                                                                         
+TXT_DELINGRED        &Delete Ingredient   (F6)                                                                         
+TXT_DELOCC         Delete current Occasion ?                                                                           
+TXT_DELQLITEM       &Delete Item                (F6)                                                                   Delete Occasion/Quick List Item
+TXT_DELQLITEM_SUP  Delete dietary supplement                                                                           
+TXT_DELQLITEMS     Delete contents of quick list item and attached notes ?                                             
+TXT_DELQQITEM       &Delete item                (F6)                                                                   
+TXT_DELVITA        Delete Dietary Supplement                                                                           
+TXT_DENSITY        Density factor                                                                                      
+TXT_DESCQUA         Description/&Quantification (F9)                                                                   
+TXT_DESCVITA       Descriptors                                                                                         
+TXT_DESTQLI        Select destination QLI                                                                              
+TXT_DETAILINFO     Detailed information                                                                                
+TXT_DETLIST        Detailed list                                                                                       
+TXT_DIETARY_SUPP   Dietary Supplement                                                                                  
+TXT_DURATION       Duration of Interview :                                                                             Duration of record entry :
+TXT_EDIBPART       Edible part coefficient                                                                             
+TXT_EDIT           &Edit                                                                                               
+TXT_EDITINT         &Edit Interview                                                                                    &Edit record  
+TXT_EDITMXR          &Edit Recipe   (F8)                                                                               
+TXT_EDITSUBR       Edit Sub Recipe                                                                                     
+TXT_ELAPSED        Elapsed time :                                                                                      
+TXT_EMPTY          EMPTY                                                                                               
+TXT_EMPTYFCO       Empty FCO                                                                                           
+TXT_EMPTYOTHER     The ‘Other’ field is not filled; do you want to specify?                                            
+TXT_EMPTYQLI       EMPTY QUICK-LIST ITEM                                                                               
+TXT_EPICSOFTDB     GloboDiet parameters Databases                                                                      
+TXT_EPICSOFTRESTORERestore GloboDiet database                               
+TXT_EPICSOFTXML    Import GloboDiet database                                                                           
+TXT_ERROR          Error                                                                                               
+TXT_EXITYN         Do you want to EXIT from GloboDiet ?                                                                Do you want to EXIT GloboDiet Data Entry?
+TXT_EXPANDED         &Expand    (F7)                                                                                   
+TXT_EXPINFO          E&xpand/compress info         (F11)                                                               
+TXT_EXTRAFCO_SUPP  FCO non specified                                        
+TXT_F1NOTES         F1 : Notes                                                                                         
+TXT_F2TIME          F2 : Duration                                                                                      
+TXT_F3INFO          F3 : General information                                                                           
+TXT_F5PLIS          F5 : Patients List                                                                                  F5 : Subject List 
+TXT_FALPHA         Alphabetical order                                                                                  
+TXT_FALPHAMENU      &Alphabetical   (F5)                                                                               
+TXT_FATADDED       Fat added during cooking                                                                            
+TXT_FATLOVER       % of Fat Left-Over in the dish                                                                      
+TXT_FATNODEL       Sorry, FAT used for cooking cannot be deleted.                                                      
+TXT_FBRMUST        A name must be selected.                                                                            
+TXT_FBRNAME         Brand Name                                                                                         
+TXT_FBRNAMETXT     Name                                                                                                
+TXT_FBRNEW         <New>                                                                                               
+TXT_FBRUNDEF       -UNDEFINED-                                                                                         
+TXT_FCO            Food Consumption Occasion                                                                           
+TXT_FCOHOUR        Hour                                                                                                
+TXT_FCOMINUT       Minutes                                                                                             
+TXT_FCOPLACE       Place                                                                                               
+TXT_FCSELECTED     Selected items                                                                                      
+TXT_FDCONSUMINF    Consumed                                                                                            
+TXT_FDDESCINF      DESCRIPTION                                                                                         
+TXT_FDENDEDIT          End editing the INTERVIEW ?                                                                     End editing the RECORD?
+TXT_FDENDINT         &End Interview                                                                                    &End Record
+TXT_FDENDINTQ             End the INTERVIEW ?                                                                          End of record?
+TXT_FDESCRIPTOR     &Descriptors                                                                                       
+TXT_FDESTIMINF     Estimated                                                                                           
+TXT_FDFCOINF       Food Consumption Occasion                                                                           
+TXT_FDFOODITEMS     &Food Items                                                                                        
+TXT_FDINGINF       INGREDIENT                                                                                          
+TXT_FDINTERV        &Interview                                                                                         &Record
+TXT_FDMETHINF      Method                                                                                              
+TXT_FDOCCASIONS     &Occasions                                                                                         
+TXT_FDQLI            &Quick List           (F9)                                                                        
+TXT_FDQLIINF       Quick List Item                                                                                     
+TXT_FDQUANTINF     QUANTIFICATION                                                                                      
+TXT_FDRECIPINF     RECIPE                                                                                              
+TXT_FDSIMPLEINF    FOOD                                                                                                
+TXT_FDTITLE        Food/Recipe description and quantification                                                          
+TXT_FEMALE         Female                                                                                              
+TXT_FFACET         Facet                                                                                               
+TXT_FFROMTOP       From top                                                                                            
+TXT_FGIBOTTOM      Generic items (GI) at the bottom                                                                    
+TXT_FGL            Food Group List                                                                                     
+TXT_FGROUP         Group                                                                                               
+TXT_FGSMENU         &Group/Subgroup (F4)                                                                               
+TXT_FILLED         FILLED                                                                                              
+TXT_FNAME          Name                                                                                                
+TXT_FNEWFOOD        &New Food                                                                                          
+TXT_FNEWREC        New Recipe                                                                                          
+TXT_FNOTBRAND       A Brand name must be selected                                                                      
+TXT_FNOTDESC       Facet without descriptor.                                                                           
+TXT_FNOTEMPTY      This field cannot be blank! Please enter a valid value.                                             
+TXT_FNOTGROUP      A GROUP must be selected !                                                                          
+TXT_FNOTSUBGROUP   A SUBGROUP must be selected !                                                                       
+TXT_FOODINGLIST    Consumed Foods/Ingredients                                                                          
+TXT_FOODLIST       Food List                                                                                           
+TXT_FOR            FOR:                                                                                                
+TXT_FQUEST         What fat(s) did you use for cooking?                                                                
+TXT_FQUEST#2                                                                                                           
+TXT_FQUEST#3                                                                                                           
+TXT_FRACTION       Fraction                                                                                            
+TXT_FSEARCH         &Search                                                                                            
+TXT_FSEARFOR       Search for...                                                                                       
+TXT_FSEARSTR       Search string                                                                                       
+TXT_FSELMIXSEL     Mixed Recipe Selected                                                                               
+TXT_FSELNAME       Name                                                                                                
+TXT_FSGL           Food Subgroup List                                                                                  
+TXT_FSSMENU          &Fat/Sauce/Sweetener Added                                                                        
+TXT_FSUBG           &Subgroups      (F4)                                                                               
+TXT_FSUBGROUP      Subgroup                                                                                            
+TXT_FTYPE          Type                                                                                                
+TXT_FTYPEOFFAT      TYPE OF FAT USED FOR COOKING                                                                       
+TXT_FUNCTIONS       &Functions                                                                                         
+TXT_FVIEW           &View                                                                                              
+TXT_GRPSBGRP       Group/SubGroup                                                                                      
+TXT_HEIGHT         Height                                                                                              
+TXT_HELPRECIPE     Help recipe                                                                                         
+TXT_HHM            HHM                                                                                                 
+TXT_HHMMSS         (hh:mm:ss)                                                                                          
+TXT_HPSELECTED     The 'hour/place' selected has already been assigned.                                                
+TXT_IADDING         &Add Ingredient          (F4)                                                                      
+TXT_IALLDEL        All ingredients will be deleted !                                                                   
+TXT_ICLEARING       &Clear ingredient screen                                                                           
+TXT_IDELING         &Delete Ingredient       (F6)                                                                      
+TXT_IDELINGYN      Delete current ingredient ?                                                                         
+TXT_IDESCRIPT       D&escribe                                                                                          
+TXT_IEMPTYREC      Current individual recipe is empty or has only one ingredient.                                      
+TXT_IEXITSA        Save current Recipe and Exit ?                                                                      
+TXT_IGETRNAME      Individual Recipe                                                                                   
+TXT_IGROUP         GROUP                                                                                               
+TXT_IINGREDIENTS    &Ingredients                                                                                       
+TXT_IMPORTXML      Import XML                                                                                          Import XML
+TXT_IMUSTDESC      The ingredient must be described before quantifying it.                                             
+TXT_INAME           &Name :                                                                                            
+TXT_INAMETXT       Name                                                                                                
+TXT_ING_ERRQTY     Error : Abnormal consumed quantity                                                                  Error : Abnormal consumed quantity
+TXT_ING_WARNING    Warning: original recipe integrity compromised by added/deleted ingr. Do you confirm ?              Warning: original recipe integrity compromised by added/deleted ingr. Do you confirm ?
+TXT_INGMUSTDESC    Ingredient must be described before quantifying it.                                                 
+TXT_INISAVED       The interview has been saved.                                                                       The record has been saved.
+TXT_INISAVING      Saving interview                                                                                    Saving the record
+TXT_INOTCOMPO      You cannot choose a Composed Recipe as ingredient !                                                 
+TXT_INTCENTER      Interviewer/Center                                                                                  Operator/Center
+TXT_INTERVIEWBACKUPBackup/Save – Restore saved Databases                                                               
+TXT_INTERVIEWDB    Interview Databases                                                                                 
+TXT_INTERVIEWEE    Interviewee :                                                                                       Subject : 
+TXT_INTERVIEWER    Interviewer :                                                                                       Operator : 
+TXT_INTERVIEWXML   Export+Delete - Import/Create Databases                                                             
+TXT_INTLIST        List of Interviews                                                                                  List of records
+TXT_INTNOTFOUND    Interviewer not found.                                                                              Operator not found.
+TXT_INTNUM         Interview number                                                                                    Record number
+TXT_INTVCENTER     Intvr.center                                                                                        Oper.center
+TXT_INTVCODE       Intvr.code                                                                                          Oper.code
+TXT_INTVCOUNTRY    Intvr.country                                                                                       Oper.country
+TXT_INTW           Interviewers                                                                                        Operators
+TXT_INVALIDDATE    Invalid date                                                                                        
+TXT_INVRANGE       Invalid range.                                                                                      
+TXT_IPROBQUE        &Probing Questions      (F12)                                                                      
+TXT_IQMODIF         &Modify quantity        (F10)                                                                      
+TXT_IRECIPNONUL    Recipe name cannot be empty.                                                                        
+TXT_IRGROUP         Recipe &Group/Subgroup                                                                             
+TXT_ISAVEXIT        Save &Recipe and Exit    (F9)                                                                      
+TXT_ISETGROUP       &Set Group                                                                                         
+TXT_ISUBG          SUBGROUP                                                                                            
+TXT_ISUBSTIT        &Substitute                                                                                        
+TXT_IUNDELING      Undelete item                                                                                       
+TXT_IUNDELING_SUP  Undelete dietary supplement                                                                         
+TXT_LEGEND         LEGEND                                                                                              
+TXT_LOADING            Loading, please wait ...                                                                        
+TXT_LOADSUBJECTS   &Load subject list                                                                                  
+TXT_MALE           Male                                                                                                
+TXT_MAXFOOD        Quantity consumed exceeds maximum value defined for this food !                                     
+TXT_MAXIMUM        maximum                                                                                             
+TXT_MAXRECIP       Quantity consumed exceeds maximum value defined for this recipe !                                   
+TXT_MAXSIZENOTE    Note size is too big                                                                                
+TXT_MESSAGE        Message                                                                                             
+TXT_MEXITSAVE      Exit without saving ?                                                                               
+TXT_MINDESC        Please select at least one descriptor                                                               
+TXT_MINUT          Minutes                                                                                             
+TXT_MISSING        Missing or invalid field values detected.                                                           
+TXT_MNOTSUBST      The selected ingredient cannot be substituted.                                                      
+TXT_MNUSUPPITEMS   &Supplement Items                                                                                   
+TXT_MODFCOSUPP     Modify Occasion (hour or place)                                                                     
+TXT_MODIFY           &Modify                                                                                           
+TXT_MODQUANT         &Modify quantity     (F10)                                                                        
+TXT_MUSTHOUR       You must select a time                                                                              
+TXT_MUSTMINUT      Minutes must be selected                                                                            
+TXT_MUSTPLACE      You must select a place                                                                             
+TXT_MUSTSELDAY     You must set a Special Day                                                                          
+TXT_MUSTSELDIET1   You must select a Special Diet                                                                      
+TXT_MUSTSELECT1    Please select at least one item                                                                     
+TXT_MUSTSELRECALL  Please select a valid recall day                                                                    
+TXT_NAMEEMPTY      Name cannot be empty                                                                                
+TXT_NEWINT          &New Interview                                                                                     &New record   
+TXT_NEWKNOWNRECIPE New / Known recipe                                                                                  
+TXT_NEWRECALLDAY   Recall Day                                                                                          
+TXT_NEWRECI         &New Recipe                                                                                        
+TXT_NEWSUPP        New Supplement                                                                                      
+TXT_NEXIT           Esc or F3 : Exit                                                                                   
+TXT_NEXITSAV       Ctrl-S or F4 : Save and Exit                                                                        
+TXT_NEXTOCC         &Next Occasion              (F5)                                                                   Add Occasion
+TXT_NMBRFFACET2    Fat/Cream Selected                                                                                  
+TXT_NMBRFFACET3    Milk/liquid Selected                                                                                
+TXT_NNOTES         Interview Notes                                                                                     Record Notes
+TXT_NO                &No                                                                                              
+TXT_NOCHANGE       Descriptor change not allowed                                                                       
+TXT_NODELSUP       Sorry, the dietary supplement cannot be deleted                                                     
+TXT_NOEXIT1        You must complete the Quick List before continuing :                                                
+TXT_NOEXIT2        Go through the complete list of possible Foods                                                      
+TXT_NOEXIT3        Consumption Occasions ('Next Occasion' or F5) and select 'Exit Quick List'.                         
+TXT_NOMOREOCC      No more occasion.                                                                                   
+TXT_NONEG          Quantity cannot be negative                                                                         
+TXT_NOPAT          No Subject Found                                                                                    
+TXT_NOPENDING      No pending interview!                                                                               No pending record!
+TXT_NOTADDING      Open(recipe) : Add(ingredient)                                                                      
+TXT_NOTCOPYON      You cannot Copy Item onto a FCO                                                                     
+TXT_NOTDELING      Open(recipe) : Delete(ingredient)                                                                   
+TXT_NOTEALL         &View All notes                                                                                    
+TXT_NOTEASK        Do you want to enter information in a general or specific NOTE?                                     
+TXT_NOTEGEN         &General note                                                                                      
+TXT_NOTEMPTY       The current occasion is not empty. Previous items will be overriden.                                
+TXT_NOTENERG       Energy Requirement                                                                                  
+TXT_NOTESALL       All notes                                                                                           
+TXT_NOTESPEC        &Specific note                                                                                     
+TXT_NOTGENNOT       GENERAL NOTES                                                                                      
+TXT_NOTINGFCO      An ingredient cannot be added at the FCO level.                                                     
+TXT_NOTINTVEE      Interviewee:                                                                                        Subject :
+TXT_NOTNEWFOOD     NEW FOOD:                                                                                           
+TXT_NOTNEWREC      NEW RECIPE:                                                                                         
+TXT_NOTQLIST       Quick List                                                                                          
+TXT_NOTRECRING     This is not a recipe or a recipe ingredient item.                                                   
+TXT_NOTSAVED1      changes not saved.                                                                                  
+TXT_NOTSAVED2      not saved.                                                                                          
+TXT_NOTSELQUANT    Sorry, current item is not selectable for quantification.                                           
+TXT_NUMOFUTS       Number of units                                                                                     
+TXT_NUMUNITS       Please, indicate the part consumed/used or number of units for :                                    
+TXT_NUTALCOH       Alcohol                                                                                             
+TXT_NUTCARBO       Carbohydrates                                                                                       
+TXT_NUTCLASSIF     Classification                                                                                      
+TXT_NUTENERG       Energy                                                                                              
+TXT_NUTFEMALE      Female                                                                                              
+TXT_NUTHEIGHT      Height                                                                                              
+TXT_NUTKCAL          ENERGY (Kcal)                                                                                     
+TXT_NUTLIPID       Lipids                                                                                              
+TXT_NUTMALE        Male                                                                                                
+TXT_NUTOTHER         OTHER                                                                                             
+TXT_NUTPROTE       Proteins                                                                                            
+TXT_NUTREMARK       : Over maximum quantity (at least one)                                                             
+TXT_NUTSUMMARY     Nutrient Summary (CTRL+S)                                                                           
+TXT_NUTWATER       Water                                                                                               
+TXT_NUTWEIGHT      Weight                                                                                              
+TXT_NVIEW            &View                                                                                             
+TXT_OCCNODEL       Sorry, the FCO item cannot be deleted.                                                              
+TXT_OCCNOSEL       Sorry, the FCO item is not selectable.                                                              
+TXT_OF             OF:                                                                                                 
+TXT_OK                &Ok                                                                                              
+TXT_OPEN_R         Open                                                                                                
+TXT_OPENBRAND_R    Open with brand                                                                                     
+TXT_OTHER          Other                                                                                               
+TXT_OTHERFRACT     Other fraction                                                                                      
+TXT_OVERFLOW       OVERFLOW QTY:                                                                                       
+TXT_PARTCONS       PART Consumed:                                                                                      
+TXT_PASTE          &Paste                                                                                              
+TXT_PATCODE        Code                                                                                                
+TXT_PATNAME        Name                                                                                                
+TXT_PATSURNAME     Surname                                                                                             
+TXT_PCTFSS         % of Fats/Sauces/Sweetners                                                                          
+TXT_PHOTO          Photo                                                                                               
+TXT_PLCONSUMP      Places of Consumption                                                                               
+TXT_PLIS            List of Interviewees                                                                               List of subjects
+TXT_PLSELSHA        Please select either a synonymous name or a group/subgroup.                                        
+TXT_PQADDMORE      &Add item                                                                                           
+TXT_PQANYMISSING   Any missing items?                                                                                  
+TXT_PQNOTALLOW     Probing questions not allowed for this item.                                                        
+TXT_PREVIOUSDAY    &Help record (previous day)                                                                         &Help record (previous day)
+TXT_PROBQUE          &Probing Questions   (F12)                                                                        
+TXT_QANDPASCONSUMEDPercentages && Quantities as Consumed                                                               
+TXT_QANDPASESTIM   Percentages && Quantities as Estimated                                                              
+TXT_QANOTHER       Did you have another serving ?                                                                      
+TXT_QANOTHER_SHP   did you have another shape/surface ?                                                                
+TXT_QBYHHM         Quantification by household measures                                                                
+TXT_QBYPHOTO        Quantification by Photo                                                                            
+TXT_QBYSHAPE       Quantification by Shape                                                                             
+TXT_QBYUNITS       Quantification by Standard Units                                                                    
+TXT_QCOOK           &Cooked/Not appl.                                                                                  
+TXT_QDESVITA       Describe/Quantify Dietary supplements                                                               
+TXT_QFACNUM        Number of units                                                                                     
+TXT_QHHMTXT        Household Measures                                                                                  
+TXT_QINGRAMS       Quantification by weight                                                                            
+TXT_QINVOLUME      Quantification by volume                                                                            
+TXT_QLCHECK        QUICK LIST CHECK                                                                                    
+TXT_QLCHKLIST      Check List                                                                                          
+TXT_QLEDIT          &Edit/Modify                (F8)                                                                   Edit Occasion/Quick List Item
+TXT_QLEDIT_SUP     Edit dietary supplement                                                                             
+TXT_QLFOREX        For example :                                                                                       
+TXT_QMESS1         Please select OK to proceed with food description                                                   
+TXT_QMESS2         or select the FCO to be completed.                                                                  
+TXT_QMETHODS        &Methods                                                                                           
+TXT_QMETHTIT       Quantification                                                                                      
+TXT_QMORE           More                                                                                               
+TXT_QMOREBIG       The value must be bigger than 0                                                                     
+TXT_QNOPOR         No standard portion found for :                                                                     
+TXT_QPORTXT         &Portion                                                                                           
+TXT_QQUANTIF       Quantification                                                                                      
+TXT_QRAW            &Raw                                                                                               
+TXT_QRAWORCOOK     Estimated Raw or Cooked ?                                                                           
+TXT_QRWHOLEPART    Please indicate the consumed part of the whole known recipe                                         
+TXT_QSELPHOTO      &Select Photo                                                                                       
+TXT_QSHNOTFOUND    Shape code not found :                                                                              
+TXT_QSTDPOR        Standard Portion                                                                                    
+TXT_QSTDUTS        Standard Units                                                                                      
+TXT_QTOOBIG        The ESTIMATED quantity exceeds 9999 g.                                                              
+TXT_QTOOBIG1       The ESTIMATED quantity exceeds 9999 g.                                                              
+TXT_QTOOBIG2       The CONSUMED quantity exceeds 9999 g.                                                               
+TXT_QUEST_SUPP     You will have to answer to the question on dietary supplements before continuing                    
+TXT_QUIT            &Quit                                                                                              
+TXT_QUITREC        Quit without saving                                                                                 
+TXT_QUNEDIBLE      Estimated With or Without INEDIBLE Part ?                                                           
+TXT_QUNITS         units                                                                                               
+TXT_QUNKNOWN       Unknown                                                                                             
+TXT_QUTSTXT         &Units                                                                                             
+TXT_QVALUE         Value                                                                                               
+TXT_QVOLUME        Volume                                                                                              
+TXT_QWEIGHT        Weight                                                                                              
+TXT_QWHATPART      Please indicate the part consumed or number of units for :                                          
+TXT_QWITH           &With                                                                                              
+TXT_QWITHOUT        With&out/Not appl.                                                                                 
+TXT_RAWCOOK        Raw to cooked coefficient                                                                           
+TXT_RBRAND         Brand Name                                                                                          
+TXT_RCLA           Recipe Group List                                                                                   
+TXT_RECALLDATE     Recall date                                                                                         
+TXT_RECCOMM        STRICTLY COMMERCIAL RECIPE                                                                          
+TXT_RECD            &Recalled Day :                                                                                    
+TXT_RECDWUT         Recalled Day and Wake Up Time                                                                      
+TXT_RECILIST       Recipe List                                                                                         
+TXT_RECING           &Recipe Ingredients   (F7)                                                                        
+TXT_RECIPEHELP     Help : Standard Recipe Manager                                                                      
+TXT_RECIPEMGR      Recipe ingredient manager                                                                           
+TXT_RECIPEPORTION  (recipe portion)                                                                                    
+TXT_RECOMPUTE      Recompute date                                                                                      
+TXT_REDUCED        REDUCED                                                                                             
+TXT_REMINDER_SUPP  Reminder                                                                                            
+TXT_RESUMEINT      &Resume Interview                                                                                   &Resume record
+TXT_RESUMSG1       A pending interview has been detected!                                                              A pending record has been detected!
+TXT_RESUMSG2       Please use the 'Resume interview' option to continue working with it                                Please use the 'Resume record' option to continue working with it
+TXT_RINGNODEL      Sorry, the ingredient of a recipe cannot be deleted.                                                
+TXT_RMADDED        Added                                                                                               
+TXT_RMCODETXT      Code                                                                                                
+TXT_RMDELETE        &Delete recipe                                                                                     
+TXT_RMDELREC       Delete Recipe                                                                                       
+TXT_RMDGROUP       Group                                                                                               
+TXT_RMDSUBGROUP    Subgroup                                                                                            
+TXT_RMDTYPE        Type                                                                                                
+TXT_RMEXIT          &Exit Recipe Manager                                                                               
+TXT_RMFIXED         Fixed                                                                                              
+TXT_RMGRCOMMER     Commercial                                                                                          
+TXT_RMGRMEDIT       &View/Edit                                                                                         
+TXT_RMINGRED        &Ingredients                                                                                       
+TXT_RMINGTYPE        &Ingredient type                                                                                  
+TXT_RMNAMEGR        Name and &Group/Subgroup                                                                           
+TXT_RMNAMEGR2      Modify Recipe Name and Group/Subgroup                                                               
+TXT_RMNAMENUL      Recipe name cannot be empty.                                                                        
+TXT_RMNEWRECIP     New Recipe                                                                                          
+TXT_RMONEXT         O&pen Next             (F5)                                                                        
+TXT_RMOPREV         Open Pre&vious         (F7)                                                                        
+TXT_RMRECIPE        &Recipe                                                                                            
+TXT_RMSAVE          &Save                                                                                              
+TXT_RMSAVEAS        Save &As                                                                                           
+TXT_RMSAVECURR     Save current recipe ?                                                                               
+TXT_RMSAYCODE      Code :                                                                                              
+TXT_RMSAYGRP       GROUP    :                                                                                          
+TXT_RMSAYNAME      Name :                                                                                              
+TXT_RMSAYSGRP      SUBGROUP :                                                                                          
+TXT_RMSUBST         Subst.                                                                                             
+TXT_RMTITLE        Recipe Manager                                                                                      
+TXT_RNOTEDITABLE   Recipe not editable                                                                                 
+TXT_RNOTES         Recipe Notes                                                                                        
+TXT_RPRODOTHER     Other                                                                                               
+TXT_RQUANTW        Individual part of the whole known recipe                                                           
+TXT_RSCL           Recipe Subgroup List                                                                                
+TXT_RTYPE          Type                                                                                                
+TXT_SAMESUB        Do you want to add another record for the same subject?                                             
+TXT_SAVE1          Do you want to save the changes of the current interview?                                           Do you want to save the changes of the current record?
+TXT_SAVE2          Do you want to SAVE the INTERVIEW?                                                                  Do you want to SAVE the RECORD?
+TXT_SAVEANDEXIT    Do you want to exit without saving?                                                                 
+TXT_SAVEFINREC     Save && exit from final recipe                                                                      
+TXT_SAVETMPREC     Save && exit from the temporary recipe                                                              
+TXT_SEARCHSUPP     Search...                                                                                           
+TXT_SEARFOR        Search for                                                                                          
+TXT_SELCOMPO       Composed Recipe Selected                                                                            
+TXT_SELECTP        Please select                                                                                       
+TXT_SELMETHOD      Please select a measure                                                                             
+TXT_SELOCC           &Select Occasion                                                                                  
+TXT_SELOCCTIT       Select Occasion                                                                                    
+TXT_SELSUBJECTFILE Select subject file                                                                                 
+TXT_SELSUPQLI      Please select a supplement QLI                                                                      
+TXT_SELSUPQUANT    Please select a Quantification Method                                                               
+TXT_SETBRAND        Set &Brand                                                                                         
+TXT_SETUP           &Setup                                                                                             
+TXT_SETUPOP        Setup options                                                                                       
+TXT_SEX            Sex                                                                                                 
+TXT_SHADIVI         &VIEW INGRED                                                                                       
+TXT_SHADNAME       Synonymous Name                                                                                     
+TXT_SHADOG         Other Group                                                                                         
+TXT_SHAPE          Shape :                                                                                             
+TXT_SHAPEFRACT     Shape Fraction                                                                                      
+TXT_SHFDYETSELECTEDThis item has already been selected:                                                                
+TXT_SHORTHOUR      Hr                                                                                                  
+TXT_SHORTMIN       Min.                                                                                                
+TXT_SHTHICKNESS    Shape thickness                                                                                     
+TXT_SPECDAY        Special Day                                                                                         
+TXT_SPECDIET       Special Diet                                                                                        
+TXT_SPECPART        SPECIFIC NOTES                                                                                     
+TXT_SPFACOOK       Standard % for FAT/SAUCE/SWEETENER added after cooking                                              
+TXT_SPFANOTF       STD % ADDED AFTER COOKING not found for                                                             
+TXT_SPFASELE       Please select the ingredients used with:                                                            
+TXT_SPFDCOOK       Please select the fat(s) used for cooking:                                                          
+TXT_SPFDNOTF1      % FAT ADDED DURING COOKING not found for                                                            
+TXT_SPFDNOTF2      associated with                                                                                     
+TXT_SPFDSELFAT     A fat must be selected !                                                                            
+TXT_SRECIPMGR      Standard Recipe Manager                                                                             
+TXT_STREMPTY       No match found !                                                                                    
+TXT_SUBJECT        Subject :                                                                                           
+TXT_SUBRECIPE      SubRecipe                                                                                           
+TXT_SUBRECIPEMGR   Sub recipe ingredient manager                                                                       
+TXT_SUPPMANAGER    Supplement manager (CTRL+F9)                                                                        
+TXT_SUPTITLE       Dietary supplement description and quantification                                                   
+TXT_SUPTITLECLASS  Dietary Supplement (Classification)                                                                 
+TXT_THICKNESS      Thickness :                                                                                         
+TXT_TOOHIGH        Too High                                                                                            
+TXT_TOOLOW         Too Low                                                                                             
+TXT_UNDO           &Undo                                                                                               
+TXT_UNKQTY         UNKNOWN QTY :                                                                                       
+TXT_UOMSG          Unknown and Overflow quantity summary                                                               
+TXT_USEF8          This is a mixed recipe ingredient! Please, use F8 to edit the recipe.                               
+TXT_USUPMSG        Unknown quantity summary                                                                            
+TXT_VALIDSUBJECTS  Number of loaded subjects                                                                           
+TXT_VANNOTES       Notes :                                                                                             
+TXT_VANSTATUS      Status                                                                                              
+TXT_VIEW            &View                                                                                              
+TXT_VIEWNOTE       View Note                                                                                           
+TXT_VITAOSUPP       Dietary supplements                                                                                
+TXT_VITDRUG        Dietary supplement…                                                                                 
+TXT_VITSUPP        Dietary supplements:                                                                                
+TXT_VITUNITS       units                                                                                               
+TXT_VITVALUE       Value:                                                                                              
+TXT_WARNING        Warning                                                                                             
+TXT_WARNQLIEMPTY   WARNING: Empty quick list items have to be managed by EITHER                                        WARNING : Empty FCOs have to be managed by EITHER 
+TXT_WARNQLIEMPTY2  a) deleting them OR b) filling them                                                                 a) deleting them OR b) filling them
+TXT_WARNSUPP       No dietary supplement selected !                                                                    
+TXT_WBT_COMPRESS   &Compress                                                                                           
+TXT_WBT_DECOMPRESS &Detail                                                                                             
+TXT_WCOMMENT       Comment                                                                                             
+TXT_WEANDHE        Weight and Height units                                                                             
+TXT_WEIGHT         Weight                                                                                              
+TXT_WENERGY_REP    ENERGY Reported for the recalled day                                                                
+TXT_WENERGY_REQ    ENERGY Requirement (Long term)                                                                      
+TXT_WFOODING_INTAK Food/ingredient Intake                                                                              
+TXT_WHOLE           WHOLE                                                                                              
+TXT_WINTAKE        Energy Intake                                                                                       
+TXT_WNUTRIENTS     Overall Nutrients                                                                                   
+TXT_WRONGFRACT     0 value not allowed                                                                                 
+TXT_WTITLE1_SCR1   Dietary interview summary and final checks                                                          Dietary record summary and final checks
+TXT_WTOTAL         Total                                                                                               
+TXT_WUTIMEN        Next day wake up time                                                                               
+TXT_WUTIMER        Recalled day wake up time                                                                           
+TXT_YEARSOLD       years old                                                                                           
+TXT_YES               &Yes                                                                                             
+TXT_ZEROQTY        NULL QTY :                                                                                          
+
+
