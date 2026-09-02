@@ -1,0 +1,68 @@
+FOOD UPDATE FORM (version 1.2)                             xx month 2014
+
+1.  Country                              The Netherlands
+2.  Code                                 0000
+3.  Foodname                              
+    - own language                       TEST
+    - English                            TEST eng
+4.  Group/subgroup                       01 01
+5.  Shadow                                
+    - Synonym                            .
+    - Other group                        .. .. ..       
+6.  Brandname                             
+    - 1. Brandname                       .
+    - 2. Brandname                       . 
+    - 3. Brandname                       . 
+    - 4. Brandname                       . 
+    - 5. Brandname                       . 
+    - 6. Brandname                       . 
+    - 7. Brandname                       . 
+7.  Facet                                06 12 
+8.  Quantification                        
+    - photos                             ..,.. 
+    - HHM                                H             
+    - STDU and comment                   U.1 C 1 0010.000  per slok
+    - STDU and comment                   U.2 C 1 0300.123 $flesje Amstel/Bavaria/Jumbo Dors
+    - STDU and comment                   U.3 C 1 ....      ....................
+    - STDU and comment                   U.4 C 1 ....      ....................
+    - STDU and comment                   U.5 C 1 ....      ....................
+    - STDU and comment                   U.6 C 1 ....      ....................
+    - STDU and comment                   U.7 C 1 ....      ....................
+    - STDU and comment                   U.8 C 1 ....      ....................
+    - STDP and comment                   P.1 R 1 0010      gemiddelde portie per dag
+    - STDP and comment                   P.2 C 1 0020.123 $gemiddelde portie per dag
+9.  Maxima                               150
+10. Probings                             07,..
+11. Nutrient values                       
+    - Energy                               236           .           .
+    - Protein                                4           .           .
+    - Fat                                    3           .           .
+    - Carbohydrate                          24           .           .
+    - Alcohol                                0           .           .
+    - Priority number                        1           2           3
+    - Facet-string                       .... ....   .... ....
+12. Density/facet-string                  
+    - Raw                                R:0.__                R:0.__  
+    - Cooked                             C:0.__                C:0.__  
+    - Default density                      1.10                  0.__  
+13. Edible part                           
+    - Default edib                       0.__
+    - for fish: whole                    0.__
+    - for fish: fillet                   0.__
+    - for fish: steak/slice              0.__
+    - for fish: canned                   0.__
+14. Rawcook coef.                         
+    - Default R/C                        0.__
+    - Boiled                             0.__
+    - Baked                              0.__
+    - Roasted                            0.__
+    - Fried                              0.__
+    - from dried                         0.__
+15. PCTFAT                                
+    - Group1 very fatty                  0.__
+    - Group2 fatty                       0.__
+    - Group3 less fatty                  0.__
+16. PCTFSS                                
+    - %Fat                               0.20
+    - %Sauce                             0.__
+    - %Sweetener                         0.__

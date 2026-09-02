@@ -1,0 +1,22 @@
+RECIPE UPDATE FORM (version 1.0)                             SEPTEMBER 2013
+
+1.  Country                              The Netherlands
+2.  Code                                 5447
+3.  Recipe name, 50 caracters max. (   ) Maaltijdpotje kinder- pastagerecht met vis
+4.  Group/subgroup (   )                 04 01
+5.  Quantification (   )
+    - photos (   )                       627
+    - HHM (   )                          .
+    - STDU and comment (   )             U.8     0250.001 $maaltijdpotje kinder gemiddeld
+    - STDU and comment (   )             U.9     0250.010  Olvarit 12+ pastaschelpjes met tonijn tomaat en courgette
+    - STDU and comment (   )             U.10    0250.100  Olvarit jammie, macaroni met tonijn
+    - STDU and comment (   )             U.11    0250      AH biologisch maaltijdhapje 12m pasta-zalm-spinazie
+    - Shape                              . 
+6.  Maxima (   )                         0300
+7.  Probings (   )                       ..,..
+8.  PCTFSS (   )
+    - %Fat (   )                         0.__
+    - %Sauce (   )                       0.__
+    - %Sweetener (   )                   0.__
+9.  Density                              1.00 
+10. Facet                                01 00 02
